@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am iperezfx on github.
+  * I am iperezm (https://keybase.io/iperezm) on keybase.
+  * I have a public key ASB-9ouAfdsIaposfYa8rkWn53dbakBFlUbOa_QWe-Lrlwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207ef68b807ddb086a9a2c7d86bcae45a7e7775b6a40459546ce6bf4167be2eb970a",
+      "host": "keybase.io",
+      "kid": "01207ef68b807ddb086a9a2c7d86bcae45a7e7775b6a40459546ce6bf4167be2eb970a",
+      "uid": "4dada942e3aa8178887e21c98ba34119",
+      "username": "iperezm"
+    },
+    "merkle_root": {
+      "ctime": 1568300663,
+      "hash": "dea925eb8851af4a8e14b641f2f4c1176ce0abcbc16c1cc15a12b57a5c8744889b54af5ca7e634e7a15ac299cf9d380213213704fe9f35e0ce4777cc27ec7065",
+      "hash_meta": "6dc02cbb71199521b0a760598b7bdbd5334fec2e9d719d5828e671f95fcbd6de",
+      "seqno": 6984058
+    },
+    "service": {
+      "entropy": "IAlyKM+5lYzL3S7CBj1mLInC",
+      "name": "github",
+      "username": "iperezfx"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568300675,
+  "expire_in": 504576000,
+  "prev": "09fbc67df9a83da4e27351019afba6633799ff50e856b8b881306156a94c538e",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASB-9ouAfdsIaposfYa8rkWn53dbakBFlUbOa_QWe-Lrlwo](https://keybase.io/iperezm), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfvaLgH3bCGqaLH2GvK5Fp+d3W2pARZVGzmv0Fnvi65cKp3BheWxvYWTESpcCB8QgCfvGffmoPaTic1EBmvumYzeZ/1DoVri4gTBhVqlMU47EICwGTkQucUA3raGAMj6t+sJB1mHcLE5bofZFqXYT+d0vAgHCo3NpZ8RADE6rtcIG/FTl3zphRsjpUJXIBR0ZyaKJq30DiP99asSiipq/MPPm2YryHE5nek438H25GBPpi6Ji6hkW0h3dAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFtdrFW6vgaMyA+t4PML/n6eKDDYw8kzBz/o85HbNIhjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/iperezm
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id iperezm
+```
